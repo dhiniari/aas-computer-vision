@@ -1,0 +1,6 @@
+lmstudio
+kagglehub
+pandas
+jiwer
+pillow
+matplotlib
